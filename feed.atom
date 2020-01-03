@@ -4,12 +4,12 @@
 	<title>My Blog</title>
 	<link rel="self" href="http://www.mukto-mona.com/" />
 	<rights>2020</rights>
-	<updated>2020-01-03T09:41:13Z</updated>
+	<updated>2020-01-03T09:57:57Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
-		<id>http://www.mukto-mona.com/posts/first-post</id>
+		<id>http://www.mukto-mona.com/posts/pd-001</id>
 		<title>First Post</title>
-		<link href="http://www.mukto-mona.com/posts/first-post" />
+		<link href="http://www.mukto-mona.com/posts/pd-001" />
 		<updated>2016-01-01T00:00:00Z</updated>
 		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
 </content>
