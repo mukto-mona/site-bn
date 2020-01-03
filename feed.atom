@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://pcast.mukto-mona.com/</id>
+	<id>http://www.mukto-mona.com/</id>
 	<title>My Blog</title>
-	<link rel="self" href="http://pcast.mukto-mona.com/" />
+	<link rel="self" href="http://www.mukto-mona.com/" />
 	<rights>2020</rights>
-	<updated>2020-01-03T09:26:14Z</updated>
+	<updated>2020-01-03T09:28:41Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
-		<id>http://pcast.mukto-mona.com/posts/first-post</id>
+		<id>http://www.mukto-mona.com/posts/first-post</id>
 		<title>First Post</title>
-		<link href="http://pcast.mukto-mona.com/posts/first-post" />
+		<link href="http://www.mukto-mona.com/posts/first-post" />
 		<updated>2016-01-01T00:00:00Z</updated>
 		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
 </content>
